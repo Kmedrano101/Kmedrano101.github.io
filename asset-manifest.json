@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.ba328dbd.chunk.css",
-    "main.js": "/static/js/main.c9f6c969.chunk.js",
-    "main.js.map": "/static/js/main.c9f6c969.chunk.js.map",
+    "main.js": "/static/js/main.e81a3896.chunk.js",
+    "main.js.map": "/static/js/main.e81a3896.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.bf0cc4c1.chunk.js": "/static/js/2.bf0cc4c1.chunk.js",
-    "static/js/2.bf0cc4c1.chunk.js.map": "/static/js/2.bf0cc4c1.chunk.js.map",
+    "static/js/2.3f069bec.chunk.js": "/static/js/2.3f069bec.chunk.js",
+    "static/js/2.3f069bec.chunk.js.map": "/static/js/2.3f069bec.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dad49074e687f90fa81d9d473a4d72ac.js": "/precache-manifest.dad49074e687f90fa81d9d473a4d72ac.js",
+    "precache-manifest.a84cfb0b4111cb6ae584ffa279a84522.js": "/precache-manifest.a84cfb0b4111cb6ae584ffa279a84522.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ba328dbd.chunk.css.map": "/static/css/main.ba328dbd.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.197bcbb2.png",
+    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.e55b5008.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
+    "static/media/bs.png": "/static/media/bs.5b9dd6ab.png",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
@@ -33,6 +34,7 @@
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/hn.png": "/static/media/hn.9670dbc4.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
@@ -50,16 +52,17 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
-    "static/media/uab.png": "/static/media/uab.3fc7fd7a.png",
-    "static/media/uagrm.png": "/static/media/uagrm.b57fde49.png",
+    "static/media/uab.png": "/static/media/uab.1de432d1.png",
+    "static/media/uagrm.png": "/static/media/uagrm.7d136d24.png",
     "static/media/uc3m.png": "/static/media/uc3m.5d8f266d.png",
+    "static/media/udabol.png": "/static/media/udabol.450a8dcd.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
-    "static/media/utepsa.png": "/static/media/utepsa.ebba8caf.png"
+    "static/media/utepsa.png": "/static/media/utepsa.7cfa6d7d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.bf0cc4c1.chunk.js",
+    "static/js/2.3f069bec.chunk.js",
     "static/css/main.ba328dbd.chunk.css",
-    "static/js/main.c9f6c969.chunk.js"
+    "static/js/main.e81a3896.chunk.js"
   ]
 }
