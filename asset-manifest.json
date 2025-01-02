@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.488849fd.chunk.css",
-    "main.js": "/static/js/main.c642cd95.chunk.js",
-    "main.js.map": "/static/js/main.c642cd95.chunk.js.map",
+    "main.js": "/static/js/main.b419a6f8.chunk.js",
+    "main.js.map": "/static/js/main.b419a6f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.33fe4aa4.chunk.js": "/static/js/2.33fe4aa4.chunk.js",
-    "static/js/2.33fe4aa4.chunk.js.map": "/static/js/2.33fe4aa4.chunk.js.map",
+    "static/js/2.6a3bbee8.chunk.js": "/static/js/2.6a3bbee8.chunk.js",
+    "static/js/2.6a3bbee8.chunk.js.map": "/static/js/2.6a3bbee8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.197e2ffb34bfa2a781f1e518c704f411.js": "/precache-manifest.197e2ffb34bfa2a781f1e518c704f411.js",
+    "precache-manifest.a64be74d9f3f944bed1370bc729e6409.js": "/precache-manifest.a64be74d9f3f944bed1370bc729e6409.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.488849fd.chunk.css.map": "/static/css/main.488849fd.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -62,12 +62,13 @@
     "static/media/udabol.png": "/static/media/udabol.450a8dcd.png",
     "static/media/udemy.png": "/static/media/udemy.1e387f37.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
+    "static/media/unisalamanca.png": "/static/media/unisalamanca.f6b94415.png",
     "static/media/utepsa.png": "/static/media/utepsa.7cfa6d7d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.33fe4aa4.chunk.js",
+    "static/js/2.6a3bbee8.chunk.js",
     "static/css/main.488849fd.chunk.css",
-    "static/js/main.c642cd95.chunk.js"
+    "static/js/main.b419a6f8.chunk.js"
   ]
 }
